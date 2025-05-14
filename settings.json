@@ -1,0 +1,9 @@
+{
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "terminal.integrated.env.windows": {
+        "CHCP": "65001"
+    },
+    "files.encoding": "utf8",
+    "terminal.integrated.encoding": "utf8",
+    "python.logging.level": "INFO"
+}
