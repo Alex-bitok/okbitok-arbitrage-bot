@@ -84,6 +84,16 @@ A professional-grade delta-neutral arbitrage bot for perpetual futures markets o
 
 ---
 
+## Notice
+This repository contains an early demonstration version intended for architecture showcase and educational purposes only.
+The production-ready version of Okbitok Arbitrage Bot has been significantly enhanced and is not open-sourced.
+
+This code is not suitable for live trading and may contain known issues.
+
+For partnership requests, pilot access, or a walkthrough of the latest system, please contact us: info@ok-bitok.ru.
+
+---
+
 ## License
 
 MIT — Free for commercial and non-commercial use with attribution.
